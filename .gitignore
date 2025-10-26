@@ -1,0 +1,8 @@
+.DS_Store
+config.env
+bin/
+.vscode/
+.idea/
+*.log
+*.sqlite
+*.sqlite3
